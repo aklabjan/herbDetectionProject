@@ -5,6 +5,8 @@ import keras_ocr
 import cv2
 import os
 
+print("Imports Completeled")
+
 def midpoint(x1, y1, x2, y2):
     x_mid = int((x1 + x2)/2)
     y_mid = int((y1 + y2)/2)
